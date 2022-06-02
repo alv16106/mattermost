@@ -1,31 +1,27 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/logos/exports/1544x1544_circle.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
-	Catppuccin for App
+	Catppuccin for Mattermost
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <p align="center">
-    <a href="https://github.com/catppuccin/template/stargazers"><img src="https://img.shields.io/github/stars/catppuccin/template?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
-    <a href="https://github.com/catppuccin/template/issues"><img src="https://img.shields.io/github/issues/catppuccin/template?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
-    <a href="https://github.com/catppuccin/template/contributors"><img src="https://img.shields.io/github/contributors/catppuccin/template?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
+    <a href="https://github.com/alv16106/mattermost/stargazers"><img src="https://img.shields.io/github/stars/alv16106/mattermost?colorA=1e1e28&colorB=c9cbff&style=for-the-badge&logo=starship"></a>
+    <a href="https://github.com/alv16106/mattermost/issues"><img src="https://img.shields.io/github/issues/alv16106/mattermost?colorA=1e1e28&colorB=f7be95&style=for-the-badge"></a>
+    <a href="https://github.com/alv16106/mattermost/contributors"><img src="https://img.shields.io/github/contributors/alv16106/mattermost?colorA=1e1e28&colorB=b1e1a6&style=for-the-badge"></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/dev/assets/misc/sample.png"/>
-</p>
+</p> -->
 
 ## Usage
 
 1. Clone this repository locally
-2. Open the app's settings
-3. Select `import theme` and browse to where you cloned Catppuccin
-4. Select it
+2. Copy the theme values you want from it's JSON file
+2. In <b>Mattermost v6.0</b>, navigate to `Settings > Display > Theme`, select `Custom Theme` and paste the theme values into the `Copy and paste to share theme colors` field.
 
-## 🙋 FAQ (optional)
 
-- Q: **_"Where can I find the doc?"_**
-  A: Run `:help theme`
 
 ## 💝 Thanks to
 
